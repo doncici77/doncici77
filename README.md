@@ -22,10 +22,3 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:pkh2956@naver.com)](mailto:pkh2956@naver.com)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&)](https://peppermint-waxflower-91d.notion.site/185bf749df0680168574fd81f38a886b?pvs=4)
 </div>
-
-</br></br>
-<div align = "center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doncici77&layout=compact&langs_count=10&bg_color=45,C33764,1D2671&title_color=ffffff&text_color=ffffff&hide_border=False" />
-  </a>
-</div>
