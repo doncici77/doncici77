@@ -18,5 +18,5 @@
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lms2955@gmail.com)](mailto:lms2955@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:pkh2956@naver.com)](mailto:pkh2956@naver.com)
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&)](https://peppermint-waxflower-91d.notion.site/185bf749df0680168574fd81f38a886b?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&)]()
 </div>
