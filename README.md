@@ -21,8 +21,6 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:pkh2956@naver.com)](mailto:pkh2956@naver.com)
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&)]()
 </br>
------------------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=doncici77&show_icons=true&theme=tokyonight) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=slswk2955)](https://solved.ac/slswk2955/) 
 
 </div>
