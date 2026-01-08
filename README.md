@@ -22,5 +22,6 @@
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white&)]()
 </br>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pkh2956@naver.com)](https://solved.ac/pkh2956@naver.com/)
 
 </div>
